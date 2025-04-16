@@ -15,5 +15,6 @@ This repo contains all of my in-class Java projects from the Pluralsight Course 
 - Methods
 - DemoFolder
 - IFandElse
+- Product Exercise
 
 Each project folder includes hands-on coding exercises and small apps we worked on during class.
