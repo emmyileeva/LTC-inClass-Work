@@ -6,6 +6,7 @@ This repo contains all of my in-class Java projects from the Pluralsight Course 
 
 - Netflix-Demo
 - Netflix-Demo2
+- Netflix3
 - New-Project-LTC-Academy
 - gift-ideas-project
 - command-line/first-java-app
@@ -13,5 +14,6 @@ This repo contains all of my in-class Java projects from the Pluralsight Course 
 - StudentExercise
 - Methods
 - DemoFolder
+- IFandElse
 
 Each project folder includes hands-on coding exercises and small apps we worked on during class.
