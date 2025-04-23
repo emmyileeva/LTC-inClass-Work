@@ -18,5 +18,6 @@ This repo contains all of my in-class Java projects from the Pluralsight Course 
 - Product Exercise
 - Recap Week 2
 - Workbook 3 Module 1 Error Handling
+- ExampleReadingaFile
 
 Each project folder includes hands-on coding exercises and small apps we worked on during class.
